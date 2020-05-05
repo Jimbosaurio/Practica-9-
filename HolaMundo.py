@@ -25,7 +25,7 @@ x = "cadena"
 print(type(x))
 
 c1="Hola"
-c2 ="Adrian Farid "
+c2 ="Elean Jim  "
 saludo = c1 + " " +c2
 #cocadenar cadena 
 print(saludo)
